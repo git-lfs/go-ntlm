@@ -1,6 +1,7 @@
 # IMPORTANT NOTE
-This repository will be removed on December 14th and will no longer be maintained and ownership will also not be transferred. Please fork this repositiory if you wish to continue to use it.
-
+Since the base repository is archived, this fork exists only to ensure that Git
+LFS has a copy of this code to depend on. The Git LFS project doesn't actively
+maintain this repository and therefore we can't promise to fix bugs here.
 
 # NTLM Implementation for Go
 
